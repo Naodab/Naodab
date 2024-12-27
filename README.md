@@ -28,7 +28,7 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/doan.ba.7731/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Naodab-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/do%C3%A3n-nguy%E1%BB%85n-444949343/" target="blank">
